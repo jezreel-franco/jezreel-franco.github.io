@@ -50,5 +50,4 @@ __Data Analyst__, Rexburg, Idaho
 - Data wranging, visualization
 
 <!-- ### Footer
-
 Last updated: May 2013 -->
